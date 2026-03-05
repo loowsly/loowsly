@@ -1,6 +1,6 @@
-<img src="https://minimalistic-wallpaper.demolab.com/#alena-aenami-out-of-time.png"/>
+<img src="https://github.com/loowsly/loowsly/blob/main/github-header-banner.png"/>
 
-<h1 align="center">Eae 👋, me chamo Fábio</h1>
+<h1 align="center">Eae 👋</h1>
 
 
 ## Sobre
