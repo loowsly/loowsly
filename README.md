@@ -74,4 +74,6 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loowsly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=socrates&font=Architect&quoteType=random&quotesUrl=https://raw.githubusercontent.com/loowsly/loowsly/main/quotes.json)
+
 ⭐ From [loowsly](https://github.com/loowsly)
