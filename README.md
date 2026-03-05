@@ -1,4 +1,4 @@
-<img src="https://github.com/loowsly/loowsly/blob/main/github-header-banner.png"/>
+<img align="center" src="https://github.com/loowsly/loowsly/blob/main/github-header-banner.png"/>
 
 <h1 align="center">Eae 👋</h1>
 
