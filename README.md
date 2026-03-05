@@ -2,10 +2,6 @@
 
 <h1 align="center">Eae 👋, me chamo Fábio</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Programming+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
-
 ---
 
 ## Sobre
