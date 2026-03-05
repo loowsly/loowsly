@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/loowsly/loowsly/main/github-header-banner.png"/>
 
-<h1 align="center">Hi 👋, I'm loowsly</h1>
+<h1 align="center">Eae 👋, me chamo Fábio</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Programming+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
@@ -8,33 +8,33 @@
 
 ---
 
-## 👤 About Me
+## Sobre
 
-Hi! I'm **loowsly** 👋  
+Opa, sou o Fábio.
 
-💻 Passionate about **programming and technology**  
-📚 Currently learning **software development and problem solving**  
-🚀 Interested in **building useful applications and improving my coding skills**
+Atualmente estou cursando ADS em uma unidade da Fatec
+Adoro a computação e a matéria de análise em si
+Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 
-- 🌱 Learning: **C, C++, Python, JavaScript**
-- 🧠 Exploring: **databases and backend development**
-- ⚡ Fun fact: I enjoy solving programming challenges
+- 🌱 Estudando: **C, C++, JavaScript**
+- 🧠 Lendo sobre: **DB e Controle de Memória**
+- ⚡ Fato incrível: Eu adoro resolver problemas lógicos usando Minecraft
 
 ---
 
-## 🌐 Connect with me
+## Contato
 
 <p align="left">
 
-<a href="https://linkedin.com/in/345t44">
+<a href="https://linkedin.com/in/fábio-junior-213024305">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/44r4r44444">
+<a href="https://stackoverflow.com/users/32451839">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/4434434">
+<a href="https://leetcode.com/u/loowsly/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
@@ -42,9 +42,9 @@ Hi! I'm **loowsly** 👋
 
 ---
 
-# 🧰 Languages and Tools
+# Algumas Familiaridades
 
-### Languages
+### Linguagens
 
 <p>
 
@@ -65,7 +65,7 @@ Hi! I'm **loowsly** 👋
 
 </p>
 
-### Databases
+### DB
 
 <p>
 
@@ -75,7 +75,7 @@ Hi! I'm **loowsly** 👋
 
 </p>
 
-### Tools
+### CI/CD
 
 <p>
 
@@ -87,7 +87,7 @@ Hi! I'm **loowsly** 👋
 
 ---
 
-# 📊 GitHub Stats
+# Status
 
 ![](https://github-readme-stats.vercel.app/api?username=loowsly&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -96,8 +96,6 @@ Hi! I'm **loowsly** 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loowsly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-# 👾 Pac-Man Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/loowsly/loowsly/output/pacman-contribution-graph.svg">
