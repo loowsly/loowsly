@@ -14,9 +14,8 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 - 🌱 Estudando: **C, C++, JavaScript**
 - 🧠 Lendo sobre: **DB e Controle de Memória**
 - ⚡ Fato incrível: Eu adoro resolver problemas lógicos usando Minecraft
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=socrates&font=Architect&quoteType=random&quotesUrl=https://raw.githubusercontent.com/loowsly/loowsly/main/quotes.json" />
-</p>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=socrates&font=Architect&quoteType=random&quotesUrl=https://raw.githubusercontent.com/loowsly/loowsly/main/quotes.json)
 
 ## Contato e outros
 
