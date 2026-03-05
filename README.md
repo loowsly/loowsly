@@ -33,8 +33,6 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 
 </p>
 
-# Algumas Familiaridades
-
 ## Linguagens
 
 <p>
