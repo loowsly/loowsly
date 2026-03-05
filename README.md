@@ -1,4 +1,4 @@
-<img src="https://github.com/loowsly/loowsly/blob/main/lis.gif"/>
+<img src="https://minimalistic-wallpaper.demolab.com/#alena-aenami-out-of-time.png"/>
 
 <h1 align="center">Eae 👋, me chamo Fábio</h1>
 
