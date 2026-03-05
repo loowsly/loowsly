@@ -2,7 +2,6 @@
 
 <h1 align="center">Eae 👋, me chamo Fábio</h1>
 
----
 
 ## Sobre
 
@@ -15,8 +14,6 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 - 🌱 Estudando: **C, C++, JavaScript**
 - 🧠 Lendo sobre: **DB e Controle de Memória**
 - ⚡ Fato incrível: Eu adoro resolver problemas lógicos usando Minecraft
-
----
 
 ## Contato
 
@@ -35,8 +32,6 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 </a>
 
 </p>
-
----
 
 # Algumas Familiaridades
 
@@ -77,11 +72,8 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="30"/>
 
 </p>
-
----
 
 # Status
 
@@ -90,13 +82,5 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 ![](https://nirzak-streak-stats.vercel.app/?user=loowsly&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loowsly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/loowsly/loowsly/output/pacman-contribution-graph.svg">
-</p>
-
----
 
 ⭐ From [loowsly](https://github.com/loowsly)
