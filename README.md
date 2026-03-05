@@ -15,18 +15,16 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 - 🧠 Lendo sobre: **DB e Controle de Memória**
 - ⚡ Fato incrível: Eu adoro resolver problemas lógicos usando Minecraft
 
-## Contato
+## Contato e outros
 
 <p align="left">
 
 <a href="https://linkedin.com/in/fábio-junior-213024305">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
 <a href="https://stackoverflow.com/users/32451839">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
-
 <a href="https://leetcode.com/u/loowsly/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
@@ -44,13 +42,6 @@ Espero desenvolver minhas habilidades e também aprimorar esse meu "hobby"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-
-</p>
-
-### Web
-
-<p>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/>
 
