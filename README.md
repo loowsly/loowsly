@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/loowsly/loowsly/main/github-header-banner.png"/>
+<img src="https://media1.tenor.com/m/HnhN7N3XTMEAAAAC/life-is-strange-consequences.gif"/>
 
 <h1 align="center">Eae 👋, me chamo Fábio</h1>
 
